@@ -4,6 +4,6 @@
 	"repository": "https://github.com/elasa-Sites/Heroku-Rapidleech-1",
 	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
 	"keywords": ["leech", "heroku", "php", "postgresql", "apache", "apache2"],
-	"stack": "heroku-18",
+	"stack": "heroku-16",
 	"addons": ["heroku-postgresql:hobby-dev"]
 }
