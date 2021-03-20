@@ -10,7 +10,7 @@ Use the Deploy to Heroku button, or use the old fashioned way described below.
 
 [Use Crypt  type for htpasswd Generator is here.](https://macminiosx.github.io/passwd-generator/)
 
-<a href="https://heroku.com/deploy?template=https://github.com/elasa-Sites/Heroku-Rapidleech-1/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/Xi-Ui/Heroku-Rapidleech-1/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy">
 </a>
 
